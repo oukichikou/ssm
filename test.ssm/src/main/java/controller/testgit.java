@@ -9,7 +9,7 @@ int a=100;
 }
 String s="";
 public testgit() {
-System.out.println("init");
+System.out.println("init1");
 
 }
 }
