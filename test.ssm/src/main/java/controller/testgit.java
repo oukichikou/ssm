@@ -4,8 +4,9 @@ public class testgit {
 public static void main(String[] args) {
 	System.out.println("1212");
 }
-
+String s="";
 public testgit() {
-	// TODO Auto-generated constructor stub
+System.out.println("init");
+
 }
 }
