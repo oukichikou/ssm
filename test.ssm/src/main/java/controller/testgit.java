@@ -6,7 +6,7 @@ public static void main(String[] args) {
 }
 String s="";
 public testgit() {
-System.out.println("init");
+System.out.println("init1");
 
 }
 }
