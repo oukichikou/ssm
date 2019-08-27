@@ -7,8 +7,9 @@ public static void main(String[] args) {
 int a=100;
 	System.out.println("1212");
 }
-
+String s="";
 public testgit() {
-	// TODO Auto-generated constructor stub
+System.out.println("init");
+
 }
 }
